@@ -48,8 +48,8 @@ if (false === empty($dbQuery)) {
         <?php
         if (false === empty($error)) :
             echo "<p>Error: {$error}</p>";
-         endif;
-         ?>
+        endif;
+        ?>
         <table>
             <tr>
                 <td>
